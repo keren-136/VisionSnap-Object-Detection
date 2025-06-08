@@ -1,4 +1,4 @@
-# 👁️ VisionSnap – Assistive Object Detection for the Visually Impaired
+# 📸 VisionSnap – Assistive Object Detection for the Visually Impaired
 
 VisionSnap is a Python-based assistive tool designed to help visually impaired users identify whether an object is positioned in front of them, using real-time object detection and localization.
 
